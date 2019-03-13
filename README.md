@@ -78,6 +78,7 @@ html_theme_options = {
     'show_footer': True
 }
 ```
+## Compile it to .whl
 
 ## Developer's Tips
 
